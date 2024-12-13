@@ -7,10 +7,10 @@ TecStore es un sistema de compras en línea para productos electrónicos, donde 
 ### 1. **Selección de Productos**
 El sistema permite a los usuarios elegir productos de diferentes categorías:
 
-- **Smartphones**: iPhone 14, Samsung Galaxy S22, entre otros.
-- **Laptops**: MacBook Air M1, Dell XPS 13, y más.
-- **Accesorios**: Auriculares Bose, Cargador Rápido, y otros accesorios disponibles.
-- **Tablets**: iPad Pro, Samsung Galaxy Tab, entre otros.
+- **Smartphones**: iPhone 14, Samsung Galaxy S22.
+- **Laptops**: MacBook Air M1, Dell XPS 13.
+- **Accesorios**: Auriculares Bose, Cargador Rápido.
+- **Tablets**: iPad Pro, Samsung Galaxy Tab.
 
 ### 2. **Proceso de Compra**
 Los usuarios pueden realizar una compra de la siguiente manera:
