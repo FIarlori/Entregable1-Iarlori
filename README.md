@@ -1,4 +1,3 @@
-# entrega-1-e-commerce
 # TecStore - Sistema de Compras en Línea
 
 TecStore es un sistema de compras en línea para productos electrónicos, donde los usuarios pueden explorar categorías de productos, agregar artículos a su carrito de compras, y ver el total de su compra con impuestos incluidos.
@@ -21,23 +20,27 @@ Los usuarios pueden realizar una compra de la siguiente manera:
 4. **Agregar al carrito**: El producto seleccionado se agrega al carrito de compras con la cantidad deseada.
 
 ### 3. **Carrito de Compras**
-Los usuarios pueden ver su carrito de compras, donde se muestra:
-- Los productos seleccionados.
-- La cantidad de cada producto.
-- El total de cada producto con impuestos incluidos.
-- El total general de la compra, calculado automáticamente.
+El sistema permite a los usuarios ver el carrito con los productos seleccionados y el total calculado, incluyendo impuestos (21%). Si el carrito está vacío, el sistema lo notificará.
 
-Si el carrito está vacío, el sistema notificará al usuario.
+- Los usuarios pueden ver el nombre del producto, la cantidad y el total con impuestos incluidos.
+- El total general de la compra se calcula automáticamente.
 
-### 4. **Volver al Menú Principal**
+### 4. **Eliminar Productos del Carrito**
+Los usuarios pueden eliminar productos del carrito de compras. Pueden:
+- Eliminar una cantidad específica de un producto.
+- Eliminar completamente un producto.
+- Vaciar todo el carrito.
+
+### 5. **Volver al Menú Principal**
 En cualquier momento, los usuarios pueden volver al menú anterior mediante el comando "RET". Esto les permite regresar a la selección de categorías o elegir entre ver el carrito o continuar comprando.
 
-### 5. **Navegación**
+### 6. **Navegación**
 El sistema tiene una navegación sencilla con las siguientes opciones:
 - **Comprar**: Iniciar el proceso de compra, seleccionar una categoría y agregar productos al carrito.
 - **Ver carrito de compras**: Consultar los productos en el carrito y ver el total de la compra.
+- **Eliminar productos del carrito**: Eliminar productos seleccionados del carrito.
 
-### 6. **Salir**
+### 7. **Salir**
 Los usuarios pueden salir del sistema en cualquier momento usando el comando "ESC", lo que finalizará el proceso de compra y mostrará un mensaje de despedida.
 
 ---
@@ -54,5 +57,5 @@ Los usuarios pueden salir del sistema en cualquier momento usando el comando "ES
 
 ## Requisitos
 
-Este sistema de e-commerce se ejecuta directamente en el navegador y no requiere instalación adicional. Solo necesitas un entorno con soporte para JavaScript.
+Este sistema de e-commerce se ejecuta directamente en el navegador y no requiere instalación adicional.
 
