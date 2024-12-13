@@ -45,14 +45,6 @@ Los usuarios pueden salir del sistema en cualquier momento usando el comando "ES
 
 ---
 
-## Uso
-
-1. **Iniciar el sistema**:
-   Ejecuta el siguiente código en tu navegador para comenzar a usar el sistema de compras.
-
-2. **Interacción**:
-   Usa los comandos `RET` para volver al menú anterior y `ESC` para salir del sistema en cualquier momento.
-
 ---
 
 ## Requisitos
